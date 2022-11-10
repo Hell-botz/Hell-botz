@@ -1,16 +1,13 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙃𝙄+𝙄𝘼𝙈+𝘽𝙀𝘼𝙉!;𝘼+𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈+𝘽𝙊𝙏+𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍!)</p>
 
-<!--
-**Mrbeanbot/Mrbeanbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-stats-alpha.vercel.app/api/?username=Mrbeanbot&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>    
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrbeanbot&theme=highcontrast)](https://github.com/Mrbeanbot/github-readme-streak-stats)
+</div>
+
+
+
